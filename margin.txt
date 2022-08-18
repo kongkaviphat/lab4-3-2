@@ -1,0 +1,4 @@
+คำถาม การกำหนดค่า margin ต่อไปนี้ ต่างกัน box model??
+margin:40px;		บน ล่าง ซ้าย ขวา 40px	
+margin:40px 20px;		บนและล่าง 40 px ซ้ายและขวา 20px
+margin:40px 20px 10px;	บน 40px ขวาซ้าย20px ล่าง10px	
